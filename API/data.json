@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Bist du bei mir",
+        "bwv": 508,
+        "composition_year": "1725",
+        "description": "A popular aria from the Notebook for Anna Magdalena Bach, often attributed to Gottfried Heinrich Stölzel and arranged by Bach.",
+        "img": "./img/bist_du_bei_mir.png",
+        "article": "./textos/bist_du_bei_mir.txt"
+    },
+    {
+        "id": 2,
+        "title": "Komm, süßer Tod",
+        "bwv": 478,
+        "composition_year": "1736",
+        "description": "A poignant and introspective song expressing a longing for death as a release from life's sorrows, included in the Schemelli Gesangbuch.",
+        "img": "./img/komm_susser_tod.png",
+        "article": "./textos/komm_susser_tod.txt"
+    },
+    {
+        "id": 3,
+        "title": "Wachet auf, ruft uns die Stimme",
+        "bwv": 140,
+        "composition_year": "1731",
+        "description": "A well-known cantata composed for the 27th Sunday after Trinity, featuring the famous chorale 'Sleepers, Wake!'",
+        "img": "./img/wachet_auf.png",
+        "article": "./textos/wachet_auf.txt"
+    },
+    {
+        "id": 4,
+        "title": "Herz und Mund und Tat und Leben",
+        "bwv": 147,
+        "composition_year": "1723",
+        "description": "A cantata composed for the feast of the Visitation of Mary, which includes the famous chorale 'Jesu, Joy of Man's Desiring'.",
+        "img": "./img/herz_und_mund.png",
+        "article": "./textos/herz_und_mund.txt"
+    },
+    {
+        "id": 5,
+        "title": "Ich steh an deiner Krippen hier",
+        "bwv": 469,
+        "composition_year": "1736",
+        "description": "A devotional song from the Schemelli Gesangbuch, reflecting a humble and heartfelt worship of Christ.",
+        "img": "./img/ich_steh_an_deiner_krippen.png",
+        "article": "./textos/ich_steh_an_deiner_krippen.txt"
+    }
+]
